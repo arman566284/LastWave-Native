@@ -8,3 +8,6 @@
 **download via **[here](https://github.com/Clash-Projects/LastWave-Native/releases/download/4.2.2/LastWave-v4.2.2-universal.apk)
 **note is that my co-founder help me named rohit gadri and he own 50 percent of this app code and share though it's open source and there is a vibe coding problem in name the app name can be apper as last wave but i actually named it restwave though it's working Fully and i would provide future Link as it apper**
 
+
+**i would provide the open source code as soon as possible until then** **agar Hemraj 
+ke papa kela hote or uski mummy chilka hoti toh hemraj 🍌🍌 hota**
