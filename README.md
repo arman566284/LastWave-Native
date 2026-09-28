@@ -5,7 +5,7 @@
 # RESTWAVE
 
 **BUILD BY ARMAN HUSSAIN MANSURI AS USING THE YT DEV API KEYS AND SPOTIFY SERVER AD WATCHING ALL THE ADS DIRECTED TO localhost:4000 port for not interrupt**
-
+**download via **[here](https://github.com/Clash-Projects/LastWave-Native/releases/download/4.2.2/LastWave-v4.2.2-universal.apk)
 <p align="center">
   <a href="https://github.com/Clash-Projects/LastWave-native/stargazers">
     <img src="https://img.shields.io/github/stars/Clash-Projects/LastWave-native?style=for-the-badge&color=ffd0b0&labelColor=2d2d2d" alt="Stars" />
